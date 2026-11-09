@@ -1,0 +1,13 @@
+name: week2_responsive_dashboard
+description: Week 2 responsive declarative UI.
+publish_to: none
+environment:
+  sdk: ^3.13.2
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

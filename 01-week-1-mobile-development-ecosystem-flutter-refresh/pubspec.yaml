@@ -1,0 +1,13 @@
+name: week1_flutter_refresh
+description: Week 1 Flutter and Dart refresh.
+publish_to: none
+environment:
+  sdk: ^3.13.2
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

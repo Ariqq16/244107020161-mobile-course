@@ -1,0 +1,15 @@
+name: week3_navigation_state
+description: Week 3 navigation and state management.
+publish_to: none
+environment:
+  sdk: ^3.13.2
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^18.1.1
+  flutter_riverpod: ^3.4.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
